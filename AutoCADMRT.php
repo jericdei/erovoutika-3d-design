@@ -1,173 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="en">
-	
 <head>
-		<meta charset="utf-8">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title> AutoCAD - MRT Station Tutorial | Erovoutika International</title>
-		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<!-- favicon -->		
-        <link rel="shortcut icon" type="image/x-icon" href="img/logo/favicon.png">
-
-		<!-- all css here -->
-
-		<!-- bootstrap v3.3.6 css -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<!-- owl.carousel css -->
-		<link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/owl.transitions.css">
-       <!-- Animate css -->
-        <link rel="stylesheet" href="css/animate.css">
-        <!-- meanmenu css -->
-        <link rel="stylesheet" href="css/meanmenu.min.css">
-		<!-- font-awesome css -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/themify-icons.css">
-		<link rel="stylesheet" href="css/flaticon.css">
-		<!-- magnific css -->
-        <link rel="stylesheet" href="css/magnific.min.css">
-		<!-- style css -->
-		<link rel="stylesheet" href="style.css">
-		<!-- responsive css -->
-		<link rel="stylesheet" href="css/responsive.css">
-
-		<!-- modernizr css -->
-		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
-	</head>
-		<body>
-
-        <div id="preloader"></div>
-        <header class="header-one">
-            <!-- Start top bar -->
-            <div class="topbar-area fix hidden-xs">
-                <div class="container">
-                    <div class="row">
-                       <div class="col-md-6 col-sm-6">
-                           <div class="topbar-left">
-                                <ul>
-                                    <li><a href="https://accounts.google.com/ServiceLogin/signinchooser?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa fa-envelope"></i> erovoutika@gmail.com</a></li>
-                                    <li><a><i class="fa fa-phone"></i> +02 8370 1811 </a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class=" col-md-6 col-sm-6">
-                            <div class="topbar-right">
-                                <div class="top-social">
-                                    <ul>
-                                        <li><a href="https://www.youtube.com/c/EROVOUTIKARoboticsandAutomationSolutions/featured"><i class="fa fa-youtube"></i></a></li>
-                                        <li><a href="https://erovoutika.ph/index.html"><i class="fa fa-google"></i></a></li>
-                                        <li><a href="https://www.instagram.com/erovoutika/"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="https://www.facebook.com/erovoutika"><i class="fa fa-facebook"></i></a></li>
-                                    </ul> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End top bar -->
-            <!-- header-area start -->
-            <div id="sticker" class="header-area hidden-xs">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 col-sm-12">
-                            <div class="row">
-                                <!-- logo start -->
-                                <div class="col-md-3 col-sm-3">
-                                    <div class="logo">
-                                        <!-- Brand -->
-                                        <a class="navbar-brand page-scroll white-logo" href="https://erovoutika.ph/index.html">
-                                            <img src="img/logo/logoero.png" alt="">
-                                        </a>
-                                    </div>
-                                    <!-- logo end -->
-                                </div>
-                                <div class="col-md-9 col-sm-9">
-
-                                    <!-- mainmenu start -->
-                                    <nav class="navbar navbar-default">
-                                        <div class="collapse navbar-collapse" id="navbar-example">
-                                            <div class="main-menu">
-                                                <ul class="nav navbar-nav navbar-right">
-                                                    <li><a class="pages" href="index.html">Home</a>
-                                                    </li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a class="pages" href="#">3D Design Softwares</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="aboutSketchUp.html">SketchUp</a></li>
-                                                            <li><a href="aboutAutoCAD.html">AutoCAD</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a class="pages" href="#">Video Tutorials</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="SketchUpvideo.html">SketchUp</a></li>
-                                                            <li><a href="AutoCADvideo.html">AutoCAD</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a class="pages" href="#">Outputs</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="SketchUpOutput.html">SketchUp</a></li>
-                                                            <li><a href="AutoCADOutput.html">AutoCAD</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="contact.html">contacts</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </nav>
-                                    <!-- mainmenu end -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-            </div>
-            <!-- header-area end -->
-            <!-- mobile-menu-area start -->
-            <div class="mobile-menu-area hidden-lg hidden-md hidden-sm">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="mobile-menu">
-                                <div class="logo">
-                                    <a href="https://erovoutika.ph/index.html"><img src="img/logo/logoero.png" alt="" /></a>
-                                </div>
-                                <nav id="dropdown">
-                                    <ul>
-                                        <li><a class="pages" href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a class="pages" href="#">3D Design Softwares</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="aboutSketchUp.html">SketchUp</a></li>
-                                                <li><a href="aboutAutoCAD.html">AutoCAD</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a class="pages" href="#">Video Tutorials</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="SketchUpvideo.html">SketchUp</a></li>
-                                                <li><a href="AutoCADvideo.html">AutoCAD</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a class="pages" href="#">Outputs</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="SketchUpOutput.html">SketchUp</a></li>
-                                                <li><a href="AutoCADOutput.html">AutoCAD</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">contacts</a></li>
-                                    </ul>
-                                </nav>
-                            </div>                  
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- mobile-menu-area end -->       
-        </header>
-        <!-- header end -->
-        <!-- Start breadcumb Area -->
-         <div class="page-area">
+<?php include('components/head.inc.php'); ?>
+    <title>AutoCAD MRT Station Tutorials | 3D Modeling & Design</title>
+</head>
+<?php include('components/header.inc.php'); ?>
+        <!-- start -->
+		<!-- Start breadcumb Area -->
+        <div class="page-area">
             <div class="breadcumb-overlay"></div>
             <div class="container">
                 <div class="row">
@@ -177,10 +17,10 @@
                                 <h3 class="title5">Video Tutorials: <span>MRT Station Tutorials </span></h3>
                             </div>
                             <ul class="breadcrumb-bg">
-                                <a href="index.html"><li class="home-bread">Home</li></a>
+                                <a href="index.php"><li class="home-bread">Home</li></a>
                                 <li class="home-bread">Video Tutorials</li>
-                                <a href="AutoCADvideo.html"><li class="home-bread">AutoCAD</li> </a>
-                                <a href="AutoCADMRT.html"><li >MRT Station Tutorials</li> </a>                               
+                                <a href="AutoCADvideo.php"><li class="home-bread">AutoCAD</li> </a>
+                                <a href="AutoCADMRT.php"><li >MRT Station Tutorials</li> </a>                               
                             </ul>
                         </div>
                     </div>
@@ -549,118 +389,9 @@
                 </div>
             </div>
         </div>
-        <!-- End -->
-       <!-- Start Footer Area -->
-        <footer class="footer1">
-            <div class="footer-area">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-5 col-sm-5 col-xs-12">
-                            <div class="footer-content logo-footer">
-                                <div class="footer-head">
-                                    <div class="footer-logo">
-                                        <a class="footer-black-logo" href="https://erovoutika.ph/index.html"><img src="img/logo/ero-logo.png" alt=""></a>
-                                    </div>
-                                    <p>
-                                    One-stop Solutions for Robotics, Electronics, Automation, and ICT Solutions
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end single footer -->
-                        <div class="col-md-4 col-sm-3 col-xs-12">
-                            <div class="footer-content">
-                                <div class="footer-head">
-                                    <h4>Quick Links</h4>
-                                    <ul class="footer-list">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About </a></li>
-                                    </ul>
-                                    <ul class="footer-list hidden-sm">
-                                        <li><a href="contact.html">Contact Us</a></li>
-    
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end single footer -->
-                        <div class="col-md-3 col-sm-4 col-xs-12">
-                            <div class="footer-content last-content">
-                                <div class="footer-head">
-                                    <h4>Information</h4> 
-                                    <div class="footer-contacts">
-                                        <p><span>Tel :</span>  +02 8370 1811</p>
-                                        <p><span>Email :</span> erovoutika@gmail.com</p>
-                                        <p><span>Location :</span> Unit A, 2367 Urdaneta Rd. Guadalupe Nuevo, Makati City, PH 1212</p>
-                                    </div> 
-                                    <div class="footer-icons">
-                                        <ul>
-                                            <li>
-                                                <a href="https://www.facebook.com/erovoutika">
-                                                    <i class="fa fa-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://erovoutika.ph/index.html">
-                                                    <i class="fa fa-google"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://www.youtube.com/c/EROVOUTIKARoboticsandAutomationSolutions/featured">
-                                                    <i class="fa fa-youtube"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="fa fa-instagram">
-                                                    <i class="fa fa-instagram"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-area-bottom">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                            <div class="copyright">
-                                <p>
-                                    Copyright © 2021
-                                    <a href="https://erovoutika.ph/index.html">Erovoutika International Corporation</a> All Rights Reserved
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- End Footer area -->
-		
-		<!-- all js here -->
-
-		<!-- jquery latest version -->
-		<script src="js/vendor/jquery-1.12.4.min.js"></script>
-		<!-- bootstrap js -->
-		<script src="js/bootstrap.min.js"></script>
-		<!-- owl.carousel js -->
-		<script src="js/owl.carousel.min.js"></script>
-		  <!-- stellar js -->
-        <script src="js/jquery.stellar.min.js"></script>
-		<!-- magnific js -->
-        <script src="js/magnific.min.js"></script>
-        <!-- wow js -->
-        <script src="js/wow.min.js"></script>
-        <!-- meanmenu js -->
-        <script src="js/jquery.meanmenu.js"></script>
-		<!-- Form validator js -->
-		<script src="js/form-validator.min.js"></script>
-		<!-- plugins js -->
-		<script src="js/plugins.js"></script>
-		<!-- main js -->
-		<script src="js/main.js"></script>
-	</body>
+		<!-- end -->
+        <?php
+            include('components/footer.inc.php'); 
+            include('components/js.inc.php');
+        ?>
 </html>
