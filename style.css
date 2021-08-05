@@ -48,6 +48,7 @@
 /*  Google Fonts
 /*----------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 
 /*----------------------------------------*/
@@ -90,7 +91,7 @@ p {
     color: #5d6471;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
 	margin: 0 0 15px;
 	color: #151b2c;
     font-weight: 600;
@@ -143,7 +144,7 @@ a:hover, a:focus {
 body {
 	background: #fff none repeat scroll 0 0;
 	color: #5d6471;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 	text-align: left;
 	overflow-x: hidden;
