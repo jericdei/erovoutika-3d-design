@@ -792,86 +792,23 @@ div#preloader {
 span.users {
     color: #444;
 }
-.prices {
-    font-size: 20px;
+.topic {
+    font-size: 18px;
     font-weight: 100;
-    color: #E6922E;
-    padding-right: 10px;
-    line-height: 20px;
+    color: #444;
+    padding-right: 5px;
+    display:table;
+    margin:0 auto;
+    padding-bottom: 5px;
 }
-.prices1 {
+.software {
     font-size: 25px;
     font-weight: 100;
     color: #E6922E;
-    padding-right: 13px;
     display:table;
     margin:0 auto;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
 }
-.prices2 {
-    font-size: 25px;
-    font-weight: 100;
-    color: #E6922E;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices3 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices4 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices5 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices6 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices7 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-.prices8 {
-    font-size: 20px;
-    font-weight: 100;
-    color: #444;
-    padding-right: 5px;
-    display:table;
-    margin:0 auto;
-    padding-bottom: 5px;
-}
-
 
 .pri_table_list {
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);

@@ -45,10 +45,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices3"><strong>Software Installation</strong></span>
-                                        <span class="prices4"><strong>Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>Software Installation</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
@@ -60,10 +60,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices5"><strong>MRT Station</strong></span>
-                                        <span class="prices4"><strong>Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>MRT Station</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
@@ -75,10 +75,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices5"><strong>LRT Station</strong></span>
-                                        <span class="prices4"><strong>Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>LRT Station</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
@@ -90,10 +90,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices6"><strong>Erovoutika Training</strong></span>
-                                        <span class="prices7"><strong>Area Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>Erovoutika Training</strong></span>
+                                        <span class="topic"><strong>Area Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
@@ -105,10 +105,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices6"><strong>Elementary Level</strong></span>
-                                        <span class="prices4"><strong>Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>Elementary Level</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
@@ -120,10 +120,10 @@
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
                                    <div class="rates">
-                                        <span class="prices1"><strong>SketchUp 3D</strong></span>
-                                        <span class="prices2"><strong>Design Software</strong></span>
-                                        <span class="prices6"><strong>High School Level</strong></span>
-                                        <span class="prices4"><strong>Tutorials</strong></span>
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>High School Level</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
                                 <div class="price-btn blue">
