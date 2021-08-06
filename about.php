@@ -14,7 +14,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="breadcrumb text-center">
                             <div class="section-headline white-headline">
-                                <h3 class="title5">About <span>3D Modeling and Design</span></h3>
+                                <h3 class="title5">About: <span>3D Modeling and Design</span></h3>
                             </div>
                             <ul class="breadcrumb-bg">
                                 <a href="index.php"><li class="home-bread">Home</li></a>
@@ -89,7 +89,7 @@
                             </div>
                     </div>
                     <!-- column end -->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="col-md-6 col-sm-20 col-xs-12">
                         <div class="about-content">
                             <h5 class="title6"><span>What 3D Modeling Software Should You Use?</span></h5>
                             <h3 align="justify">Simple character or object models can use 3D modeling software. Full-featured programs provide you all the tools you need to make your creations more realistic.</h3>

@@ -44,60 +44,60 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Software Installation</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="AutoCADInstallation.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="AutoCADInstallation.php">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>MRT Station</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="AutoCADMRT.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="AutoCADMRT.php">View</a>
                                 </div>
                             </div>
                         </div>
                          <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>LRT Station</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Erovoutika Training</strong></span>
                                         <span class="topic"><strong>Area Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="AutoCADETA.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="AutoCADETA.php">View</a>
                                 </div>
                             </div>
                         </div>
@@ -108,105 +108,105 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Mechanical Design</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Floor Plans</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                          <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Railtrack of MRT</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Lighting Layout</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
-                                                <div class="col-md-3 col-sm-6 col-xs-12">
+                            <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Elementary Level</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>High School Level</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="AutoCADHS.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="AutoCADHS.php">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>AutoCAD 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>College Level</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="AutoCADCollege.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="AutoCADCollege.php">View</a>
                                 </div>
                             </div>
                         </div>

@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
 	margin: 0 0 15px;
 	color: #151b2c;
-    font-weight: 600;
+    font-weight: 500;
 }
 h1{
 	font-size: 48px;
@@ -220,7 +220,7 @@ div#preloader {
 .topbar-left ul li a {
     color: #ddd;
     display: block;
-    font-weight: 600;
+    font-weight: 500;
     margin-right: 20px;
     padding: 12px 0;
     text-decoration: none;
@@ -294,7 +294,7 @@ div#preloader {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
     color: #fff;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 500;
     padding: 33px 15px;
     text-transform: uppercase;
     position: relative;
@@ -397,7 +397,7 @@ div#preloader {
     color: #fff;
     transition: 0.4s;
     font-size: 15px;
-    font-weight: 700;
+    font-weight: 500;
     border-radius: 3px;
     text-transform: uppercase;
 }
@@ -550,16 +550,16 @@ div#preloader {
     color: #fff;
     padding-bottom: 0px;
     max-width: 900px;
-    font-weight: 700;
+    font-weight: 600;
 }
 .title3 {
     font-size: 48px;
-    line-height: 92px;
+    line-height: 50px;
     margin: 0px auto;
     color: #E6922E;
     padding-bottom: 20px;
     max-width: 900px;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .title5 {
@@ -590,26 +590,26 @@ div#preloader {
 }
 .title6 {
     font-size: 40px;
-    line-height: 37px;
+    line-height: 65px;
     margin: 0px auto;
     color: #fff;
     margin-top: 0px;
-    padding-top: 0px;
+    padding-top:-50px;
     max-width: 900px;
-    font-weight: 700;
+    font-weight: 600;
 
 }
 .title6 span {
     color: #E6922E;
 }
 .title7 {
-    font-size: 40px;
-    line-height: 45px;
+    font-size: 39px;
+    line-height: 65px;
     margin: 0px auto;
     color: #fff;
     padding-top: 0px;
-    max-width: 900px;
-    font-weight: 700;
+    max-width: 1000px;
+    font-weight: 600;
     margin-left: 0px;
 
 }
@@ -622,14 +622,30 @@ div#preloader {
     margin: 0px auto;
     color: #fff;
     margin-top: 30px;
-    padding-top: 0px;
-    max-width: 900px;
-    font-weight: 700;
+    padding-top: 20px;
+    max-width: 1000px;
+    font-weight: 600;
     margin-left: 0px;
     padding-left: 0px;
 
 }
 .title8 span {
+    color: #E6922E;
+}
+.title10 {
+    font-size: 50px;
+    line-height: 80px;
+    margin: 0px auto;
+    color: #fff;
+    margin-top: 30px;
+    padding-top: 20px;
+    max-width: 1000px;
+    font-weight: 600;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+.title10 span {
     color: #E6922E;
 }
 .ready-btn {
@@ -638,7 +654,7 @@ div#preloader {
     cursor: pointer;
     display: inline-block;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 20px;
     padding: 12px 10px;
     text-align: center;
@@ -688,7 +704,7 @@ div#preloader {
 .slide-content .video-content a span {
     color: #fff;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     transition: 0.4s;
 }
 .slide-content .video-content a:hover i{
@@ -720,7 +736,7 @@ div#preloader {
 .slide-content1 .video-content a span {
     color: #444;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     transition: 0.4s;
 }
 .slide-content .video-content a:hover i{
@@ -1618,7 +1634,7 @@ span.users {
     text-transform: uppercase;
     transition: all 0.4s ease 0s;
     border-radius: 2px;
-    font-weight: 700;
+    font-weight: 550;
     font-size: 14px;
     padding: 10px 20px;
     background: #E6922E;
@@ -1674,7 +1690,7 @@ span.users {
     text-transform: uppercase;
     position: relative;
     top: 15px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 40px 0px;
 }
 .breadcrumb .section-headline{
@@ -1690,7 +1706,7 @@ span.users {
     position: relative;
     font-size: 15px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 500;
 }
 .breadcrumb ul li.home-bread{
     padding-left: 15px;
@@ -1709,17 +1725,18 @@ span.users {
 /*  17.	About page  CSS
 /*----------------------------------------*/
 .about-content h3 {
-    line-height: 30px;
+    line-height: 27px;
     font-size: 25px;
     position: relative;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .about-content p {
     font-size: 20px;
     letter-spacing: 0.40px;
-    line-height: 24px;
+    line-height: 27px;
     margin-bottom: 0px;
+    font-weight: 500;
 }
 
 .about-content {
@@ -1735,6 +1752,7 @@ span.users {
     margin: 10px 0px;
     position: relative;
     font-size: 20px;
+    padding-top: -20px;
 }
 .marker-list li::after {
     position: absolute;

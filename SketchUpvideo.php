@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row">
             <div class="col-md-6 col-sm-12 col-xs-12">
-            <div class="about-image4">
+            <div class="about-image5">
                     <center><img src="img/about/sketchup.png" alt=""></center>
             </div>
             </div>
@@ -44,90 +44,105 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Software Installation</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="SketchUpInstallation.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="SketchUpInstallation.php">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>MRT Station</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="SketchUpMRT.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="SketchUpMRT.php">View</a>
                                 </div>
                             </div>
                         </div>
                          <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>LRT Station</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Erovoutika Training</strong></span>
                                         <span class="topic"><strong>Area Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="#">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>Elementary Level</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="SketchUpElem.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="SketchUpElem.php">View</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="pri_table_list">
                                 <div class="top-price-inner">
-                                   <div class="rates">
+                                   <div class="d-flex justify-content-center">
                                         <span class="software"><strong>SketchUp 3D</strong></span>
                                         <span class="software"><strong>Design Software</strong></span>
                                         <span class="topic"><strong>High School Level</strong></span>
                                         <span class="topic"><strong>Tutorials</strong></span>
                                     </div>
                                 </div>
-                                <div class="price-btn blue">
-                                    <a class="blue" href="SketchUpHS.php">View</a>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="SketchUpHS.php">View</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-12">
+                            <div class="pri_table_list">
+                                <div class="top-price-inner">
+                                   <div class="d-flex justify-content-center">
+                                        <span class="software"><strong>SketchUp 3D</strong></span>
+                                        <span class="software"><strong>Design Software</strong></span>
+                                        <span class="topic"><strong>Building Wiring</strong></span>
+                                        <span class="topic"><strong>Tutorials</strong></span>
+                                    </div>
+                                </div>
+                                <div class="view-btn">
+                                    <a class="view-btn" href="#">View</a>
                                 </div>
                             </div>
                         </div>

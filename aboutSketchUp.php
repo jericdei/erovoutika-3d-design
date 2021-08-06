@@ -43,7 +43,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="about-content">
-                            <h5 class="title8"><span>Introduction to SketchUp</span></h5>
+                            <h5 class="title10"><span>Introduction to SketchUp</span></h5>
                             <p align="justify">With the success of SketchUp, 3D modeling has become more popular than it was previously. In addition to being available for free, it is also available for purchase, making it a good alternative for both pros and enthusiasts. While there are numerous advantages to using SketchUp, particularly for mechanical engineering, architecture, and even gaming, the software's greatest usefulness is a modeler. That's all there is to know about SketchUp right now, but there's a lot more to learn.</p><br>
                             <p align="justify">SketchUp could be a simple 3D modeling app that's perfect for using "Push and Pull" technique. to produce and edit 2D and 3D models.</p>
                         </div>
