@@ -82,7 +82,7 @@
                                     </div>
                                 </div>
                                 <div class="view-btn">
-                                    <a class="view-btn" href="#">View</a>
+                                    <a class="view-btn" href="SketchUpLRT.php">View</a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                                     </div>
                                 </div>
                                 <div class="view-btn">
-                                    <a class="view-btn" href="#">View</a>
+                                    <a class="view-btn" href="SketchUpETA.php">View</a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                                     </div>
                                 </div>
                                 <div class="view-btn">
-                                    <a class="view-btn" href="#">View</a>
+                                    <a class="view-btn" href="SketchUpBldgWiring.php">View</a>
                                 </div>
                             </div>
                         </div>
