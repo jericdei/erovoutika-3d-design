@@ -1,41 +1,48 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
-<?php include('components/head.inc.php'); ?>
+    <?php include('components/head.inc.php'); ?>
     <title>Software Installation Outputs | 3D Modeling & Design</title>
 </head>
 <?php include('components/header.inc.php'); ?>
-        <!-- start -->
-		<!-- Start breadcumb Area -->
-        <div class="page-area">
-            <div class="breadcumb-overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="breadcrumb text-center">
-                            <div class="section-headline white-headline">
-                                <h3 class="title5">Outputs: <span>SketchUp Software Installation</span></h3>
-                            </div>
-                            <ul class="breadcrumb-bg">
-                                <a href="index.php"><li class="home-bread">Home</li></a>
-                                <li class="home-bread">Outputs</li>
-                                <a href="SketchUpvideo.php"><li class="home-bread">SketchUp</li> </a>
-                                <a href="SketchUpInstallation.php"><li >Software Installation Tutorials</li> </a>                               
-                            </ul>
-                        </div>
+<!-- start -->
+<!-- Start breadcumb Area -->
+<div class="page-area">
+    <div class="breadcumb-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="breadcrumb text-center">
+                    <div class="section-headline white-headline">
+                        <h3 class="title5">Outputs: <span>SketchUp Software Installation</span></h3>
                     </div>
+                    <ul class="breadcrumb-bg">
+                        <a href="index.php">
+                            <li class="home-bread">Home</li>
+                        </a>
+                        <li class="home-bread">Outputs</li>
+                        <a href="SketchUpvideo.php">
+                            <li class="home-bread">SketchUp</li>
+                        </a>
+                        <a href="SketchUpInstallation.php">
+                            <li>Software Installation Tutorials</li>
+                        </a>
+                    </ul>
                 </div>
             </div>
         </div>
-        <!-- End breadcumb Area -->
-        <!-- Start Area -->
-        <div class="reviews-area review-page-area page-padding-2">
-            <div class="container">
-                <div class="row">
+    </div>
+</div>
+<!-- End breadcumb Area -->
+<!-- Start Area -->
+<div class="reviews-area review-page-area page-padding-2">
+    <div class="container">
+        <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="title9 text-center">
+                <div class="title9 text-center">
                     <span>3D Design Software: SketchUp Installation Tutorials</span>
-            </div>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -44,10 +51,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 1 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 1 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
+                                <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1EnO4JKol5pUuPleIprPT2L3SuVNq_dxQ/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -65,10 +72,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 2 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> Rabby Rabanzo</p>
+                                <p><span><strong>Created by:</strong></span> Rabby Rabanzo</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -86,10 +93,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 3 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -112,10 +119,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 4 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> Chael Patrick de Patino</p>
+                                <p><span><strong>Created by:</strong></span> Chael Patrick de Patino</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -133,10 +140,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 5 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 5 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> Neil Jan Capio</p>
+                                <p><span><strong>Created by:</strong></span> Neil Jan Capio</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -154,10 +161,10 @@
                     <div class="single-testi">
                         <div class="testi-text">
                             <div class="clients-text">
-                                <div class="client-rating"> 
-                                    <p>Software Installation <span><strong>Tutorial No. 6 </strong></span> </p>                
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 6 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                    <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
@@ -173,9 +180,10 @@
                 <!-- End single item -->
             </div> <!-- End reviews-content -->
         </div> <!-- End row -->
-		<!-- end -->
+        <!-- end -->
         <?php
-            include('components/footer.inc.php'); 
-            include('components/js.inc.php');
+        include('components/footer.inc.php');
+        include('components/js.inc.php');
         ?>
+
 </html>
