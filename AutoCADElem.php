@@ -18,14 +18,14 @@
                         <h3 class="title5">Video Tutorials: <span>Elementary Level Tutorials </span></h3>
                     </div>
                     <ul class="breadcrumb-bg">
-                        <a href="index.html">
+                        <a href="index.php">
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Video Tutorials</li>
-                        <a href="AutoCADvideo.html">
+                        <a href="AutoCADvideo.php">
                             <li class="home-bread">AutoCAD</li>
                         </a>
-                        <a href="AutoCADElem.html">
+                        <a href="AutoCADElem.php">
                             <li>Elementary Level Tutorials</li>
                         </a>
                     </ul>

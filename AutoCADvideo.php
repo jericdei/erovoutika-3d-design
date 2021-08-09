@@ -146,7 +146,7 @@
                             <div class="d-flex justify-content-center">
                                 <span class="software"><strong>AutoCAD 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
-                                <span class="topic"><strong>Railtrack of MRT</strong></span>
+                                <span class="topic"><strong>Railtrack</strong></span>
                                 <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>

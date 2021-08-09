@@ -55,7 +55,7 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 1 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Floor Plan Designing</p>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
@@ -78,7 +78,7 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Office Table Designing</p>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
@@ -101,8 +101,284 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Floor Plan Designing</p>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 4 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 5 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 6 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Christian Eguia</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 7 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Christian Eguia</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 8 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Christian Eguia</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 9 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Christian Eguia</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 10 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Christian Eguia</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 11 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Patrick James Luchavez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 12 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Patrick James Luchavez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 13 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Patrick James Luchavez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 14 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Patrick James Luchavez</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 15 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Patrick James Luchavez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
