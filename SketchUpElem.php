@@ -59,7 +59,7 @@
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/18FqNSzH21eXY1i0TnmPhVzsDzMDtnI5C/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -83,7 +83,7 @@
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1D9v-QnqFgNHFOAbd4ReNMxg4lwszrPmu/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -107,7 +107,7 @@
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1T2D0A4u4wiOeFnGx7DsZXPkMLbvfF40f/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

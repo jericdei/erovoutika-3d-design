@@ -125,7 +125,7 @@
                                 <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1kkJ6tQRA8b096TRDl7Izqv1gk6NL6-bi/preview"" class=" video-play vid-zone">
+                                        <a href="#" class=" video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -367,7 +367,7 @@
                                 <p><span><strong>Created by:</strong></span> Bryan Christian Martinez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1hQSM8zR0HY3HEFH4h166h_2_oKWsrLLG/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -389,7 +389,7 @@
                                 <p><span><strong>Created by:</strong></span> Bernalyn Malinao</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1JWehMqFudnYb6bzokWXHqtWo8BkmgC8f/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -411,7 +411,7 @@
                                 <p><span><strong>Created by:</strong></span> Kenneth Jasper Alcaraz</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1mvRJN6aC5SgV6vfrY2wt1vfNx5rVSWhp/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

@@ -59,7 +59,7 @@
                                 <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1jrbnCUf8ONw2U9eRLLewUNYruuEKzvDq/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -82,7 +82,7 @@
                                 <p><span><strong>Created by:</strong></span> Jancis Erika Martinez</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1cOmReyOAQD5xzaw9faPsav1UDIf0gqRh/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -105,7 +105,7 @@
                                 <p><span><strong>Created by:</strong></span> Christian Eguia</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1ZX9VnOfi_vxOiCAF6JajhZjVu3OSDN_F/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
