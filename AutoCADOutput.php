@@ -57,7 +57,7 @@
                             </div>
                         </div>
                         <div class="price-btn blue">
-                            <a class="blue" href="AutoCADInstallation.php">View</a>
+                            <a class="blue" href="AutoCADInstallationOutput.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -196,7 +196,7 @@
                             </div>
                         </div>
                         <div class="price-btn blue">
-                            <a class="blue" href="AutoCADHS.php">View</a>
+                            <a class="blue" href="#">View</a>
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                             </div>
                         </div>
                         <div class="price-btn blue">
-                            <a class="blue" href="AutoCADCollege.php">View</a>
+                            <a class="blue" href="#">View</a>
                         </div>
                     </div>
                 </div>
