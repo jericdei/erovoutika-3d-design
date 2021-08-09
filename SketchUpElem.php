@@ -55,7 +55,7 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 1 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Box</p>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
@@ -79,7 +79,7 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Tires</p>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
@@ -103,7 +103,7 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Car</p>
+                                <p><span><strong>Details:</strong></span> </p>
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
@@ -116,7 +116,52 @@
                             </div>
                         </div>
                     </div>
-
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 4 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 5 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <!-- End single item -->
             </div>
