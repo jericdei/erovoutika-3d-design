@@ -17,14 +17,14 @@
                         <h3 class="title5">Video Tutorials: <span>LRT Station Tutorials </span></h3>
                     </div>
                     <ul class="breadcrumb-bg">
-                        <a href="index.html">
+                        <a href="index.php">
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Video Tutorials</li>
-                        <a href="AutoCADvideo.html">
+                        <a href="AutoCADvideo.php">
                             <li class="home-bread">AutoCAD</li>
                         </a>
-                        <a href="AutoCADLRT.html">
+                        <a href="AutoCADLRT.php">
                             <li>LRT Station Tutorials</li>
                         </a>
                     </ul>
