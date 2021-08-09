@@ -93,7 +93,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="index-2.php"><img src="img/logo/logoero.png" alt="" /></a>
+                                    <a href="https://erovoutika.ph/index.php"><img src="img/logo/logoero.png" alt="" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>

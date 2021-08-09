@@ -22,8 +22,8 @@
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Video Tutorials</li>
-                        <a href="SketchUpvideo.php">
-                            <li>SketchUp</li>
+                        <a href="AutoCADvideo.php">
+                            <li>AutoCAD</li>
                         </a>
                     </ul>
                 </div>
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADLRT.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -116,12 +116,12 @@
                             <div class="d-flex justify-content-center">
                                 <span class="software"><strong>AutoCAD 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
-                                <span class="topic"><strong>Mechanical Design</strong></span>
+                                <span class="topic"><strong>Robot Design</strong></span>
                                 <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADRobot.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADFloorPlan.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADRailtrack.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADLightingLayout.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="#">View</a>
+                            <a class="view-btn" href="AutoCADElem.php">View</a>
                         </div>
                     </div>
                 </div>
