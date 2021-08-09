@@ -55,11 +55,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 1 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Cellphone</p>
-                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <p><span><strong>Details:</strong></span> Metal Nuts Tool</p>
+                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1LNZoSX6vMbgpK-OW47dcEGtQhi4Y7Af4/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1-l06O_RX1vBvpyIRbbfNT8yoiiMDuQ0U/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -78,11 +78,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Ultrasonic Sensor</p>
-                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <p><span><strong>Details:</strong></span> Hex Bolt Screw</p>
+                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1Y1gT3eYdPqvn2KMzBN9AxMVIID30XCg-/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1P4YAitJit_d4zkQNvNhVObRLhsGebbvr/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -101,11 +101,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Metal Nuts Tool</p>
+                                <p><span><strong>Details:</strong></span>  Base of Industrial Robot</p>
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1SaOYYYpCqeQAI8aKq7ZTPZJkjAUfxVXJ/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/11-nt6pTG6J6kKlti2h-_xUueoP6k7MbB/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -124,11 +124,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Hex Bolt Screw</p>
+                                <p><span><strong>Details:</strong></span> Shoulder of Industrial Robot</p>
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1mcTGCFpI8jq6wUDC_f5ZTNJqKSnY-Mlc/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1X3UIkmckEzDvFi2jEoH10QOwY67Demc6/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -147,11 +147,103 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 5 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> Base of Industrial Robotic Arm</p>
-                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1tQw8WuMn38384VwGpeGPelE9PJuJNUnb/preview" class="video-play vid-zone">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 6 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 7 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 8 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 9 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="#" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

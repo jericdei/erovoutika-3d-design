@@ -58,7 +58,7 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1o8ZI6hNB3ZEwyTiVicMDZkQA1Vqf3X7E/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/10-gaApnYaFtf1KA2KE5ttDO97KDYYi2s/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

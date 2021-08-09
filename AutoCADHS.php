@@ -59,7 +59,7 @@
                                 <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/15a1YG72rjvdI3X-RRM7nJElw1i2AbEao/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1yqNFhzqjGnan1lv_SXETEZ0qSvmwtnih/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -82,7 +82,7 @@
                                 <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/15Wk0TTBYVXaqWT2Nn4MfMIp-QyuhH9xG/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1TntYXCY4PjG34JzQHdcGMcNL5dOvz3H4/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -105,7 +105,7 @@
                                 <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1_FcW9khmULloPjLffgYNPB-SbFfEQlGx/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1ofljou3xAD5Z-waKMrJK0zjYbb8ssmLW/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -122,13 +122,36 @@
                         <div class="testi-text">
                             <div class="clients-text">
                                 <div class="client-rating">
-                                    <p><span><strong>Tutorial No. 3 </strong></span> </p>
+                                    <p><span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> Inductor</p>
                                 <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1tvBtq-7DDjeCgrcLT7ZgYgPseWTPSgHT/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/12KZRhWl29hoFby8JNpO8brbk4YN-oQ0V/preview" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 5 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> PCle Inductor</p>
+                                <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="https://drive.google.com/file/d/1HelsvxIWNO-YmJlfRLJSeVY3BIVlIWiJ/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

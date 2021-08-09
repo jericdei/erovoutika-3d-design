@@ -59,7 +59,7 @@
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1kGyVV8YinAnPeBhh-sd3ZbiIBlmMGYth/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1K_iY3T8JXs7pDhIxUhd5F6sWh3g7JSko/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -78,11 +78,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Details:</strong></span> Box-Type House</p>
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="#" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1_TK-a2KhZ49VLr02QW0Up7uosWZUKSZa/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -101,11 +101,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Details:</strong></span> Gaming Car</p>
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="#" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1c7qN_hZPcl4yRs1BWFeBGVrT7BwiEQZq/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -124,11 +124,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Details:</strong></span> Nuclear Weapon</p>
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="#" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1gKEjsXj3PWVwfiF6jxUa4aORx0mAiilF/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -147,11 +147,11 @@
                                 <div class="client-rating">
                                     <p><span><strong>Tutorial No. 5 </strong></span> </p>
                                 </div>
-                                <p><span><strong>Details:</strong></span> </p>
+                                <p><span><strong>Details:</strong></span> War Tent</p>
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="#" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1jEys2DaymwIAXduPxHlwBA34xhnSB_69/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

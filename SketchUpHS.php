@@ -59,7 +59,7 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1sP79-xiEOGgisHYdKfx34fAGfCyzRCwA/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1Sn2L8ahO23alrPdfK58dhQnwfLQLdK92/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -83,7 +83,7 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/19kn4Jz-cIk7xbw_wc_Vp_LyrNCd1rJbI/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/19AXzobn97JeByWBZqFTbeSaM50NSjdKz/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -107,7 +107,7 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1zsm_w0cHcj8evpbnGOQI32xTbvXcB2H1/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/15PcbMz6RVgBYgwp5C1fhcIS8lJFNxyIl/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -131,7 +131,30 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1u6geZXa9GqX98l3UxtvQgUDELTzUrmUc/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1VvJqBF_tMm-jKnaISzM3eAFOzKIpG930/preview" class="video-play vid-zone">
+                                            <i class="fa fa-play"></i>
+                                            <span>watch video</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 5 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Details:</strong></span> OVOU - Household Robot</p>
+                                <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
+                                <div class="slide-content1">
+                                    <div class="video-content">
+                                        <a href="https://drive.google.com/file/d/1CfiWa5nHlvzKpZ5ovn1r0CCEpBX6ZrbE/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>

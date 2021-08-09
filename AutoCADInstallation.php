@@ -58,7 +58,7 @@
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/1xmYmclingcN2baZGqyFftR1BEJp9R7i2/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1CfiWa5nHlvzKpZ5ovn1r0CCEpBX6ZrbE/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -81,7 +81,7 @@
                                 <p><span><strong>Created by:</strong></span> Rhea Ariola</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/14LRQ7m7_pRibCJWbWCf0nvQspH_U8xsb/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1rQNFf73VbK8ksPJNhLuIkxRfvGlC73gh/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
@@ -103,7 +103,7 @@
                                 <p><span><strong>Created by:</strong></span> Joanne Diego</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
-                                        <a href="https://drive.google.com/file/d/15WnHba4oVFlEKU69X8A2O5JVEQTTeDiT/preview" class="video-play vid-zone">
+                                        <a href="https://drive.google.com/file/d/1X1nBdSaulR8QmC-We09g7HO4nAtpKtpG/preview" class="video-play vid-zone">
                                             <i class="fa fa-play"></i>
                                             <span>watch video</span>
                                         </a>
