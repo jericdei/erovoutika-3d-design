@@ -18,7 +18,7 @@
                                 <div class="top-social">
                                     <ul>
                                         <li><a href="https://www.youtube.com/c/EROVOUTIKARoboticsandAutomationSolutions/featured"><i class="fa fa-youtube"></i></a></li>
-                                        <li><a href="https://erovoutika.ph/index.php"><i class="fa fa-google"></i></a></li>
+                                        <li><a href="https://erovoutika.ph/index.html"><i class="fa fa-google"></i></a></li>
                                         <li><a href="https://www.instagram.com/erovoutika/"><i class="fa fa-instagram"></i></a></li>
                                         <li><a href="https://www.facebook.com/erovoutika"><i class="fa fa-facebook"></i></a></li>
                                     </ul> 
@@ -93,7 +93,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="https://erovoutika.ph/index.php"><img src="img/logo/logoero.png" alt="" /></a>
+                                    <a href="https://erovoutika.ph/index.html"><img src="img/logo/logoero.png" alt="" /></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>

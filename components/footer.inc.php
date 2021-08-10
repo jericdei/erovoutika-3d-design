@@ -6,7 +6,7 @@
                             <div class="footer-content logo-footer">
                                 <div class="footer-head">
                                     <div class="footer-logo">
-                                    	<a class="footer-black-logo" href="https://erovoutika.ph/index.php"><img src="img/logo/ero-logo.png" alt=""></a>
+                                    	<a class="footer-black-logo" href="https://erovoutika.ph/index.html"><img src="img/logo/ero-logo.png" alt=""></a>
                                     </div>
                                     <p>
                                     One-stop Solutions for Robotics, Electronics, Automation, and ICT Solutions
