@@ -8,7 +8,7 @@
                        <div class="col-md-6 col-sm-6">
                            <div class="topbar-left">
                                 <ul>
-                                    <li><a href="https://accounts.google.com/ServiceLogin/signinchooser?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa fa-envelope"></i> erovoutika@gmail.com</a></li>
+                                    <li><a href="#"><i class="fa fa-envelope"></i>erovoutika@gmail.com</a></li>
                                     <li><a><i class="fa fa-phone"></i> +02 8370 1811 </a></li>
                                 </ul>
 							</div>
@@ -39,7 +39,7 @@
                                 <div class="col-md-3 col-sm-3">
                                     <div class="logo">
                                         <!-- Brand -->
-                                        <a class="navbar-brand page-scroll white-logo" href="https://erovoutika.ph/index.php">
+                                        <a class="navbar-brand page-scroll white-logo" href="https://erovoutika.ph/index.html">
                                             <img src="img/logo/logoero.png" alt="">
                                         </a>
                                     </div>
