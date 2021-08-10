@@ -22,10 +22,10 @@
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Outputs</li>
-                        <a href="SketchUpvideo.php">
+                        <a href="SketchUpOutput.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpInstallation.php">
+                        <a href="SketchUpHSOutput.php">
                             <li>High School Level Tutorials</li>
                         </a>
                     </ul>
@@ -59,10 +59,10 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1GnJD27vVs20MqTZqJu1vx4XDNNgB7rgO/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
                                     </div>
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1PpTCUE_G2FcH1s0DHV_Q-xT8R58wPET90s-gNt-FIts/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
                                 </div>
                             </div>
@@ -82,10 +82,10 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1SkWBR-jhKsGzLxMsmY23NoWcA8p1vqfN/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1WUyh9P6T7MiIBk7dsXciMTpY3tELj9Cv/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
                                     </div>
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1i9IMw7xFuWmE0j5KaJ7AWpWv4YIITQYyfVp85-Donwo/preview?slide=id.ge46142fa20_0_71"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1ErhAFsgY0z5-qBEM9g1jPgT1l-w2b9doWCtEOGs5p-E/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
                                 </div>
                             </div>
@@ -105,10 +105,60 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1t3XgDexqIpsHhZYtHqqohL5ENNuFqk3W/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1K1_DMLQP6KClf1KcJgvmN5PUIt_altdp/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
                                     </div>
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1DJ-5ypC7MEPCUg3h5WYxNK1d0aungKwQLiSXZ6AHqnk/preview?slide=id.ge612f03cb4_0_0"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1CpKnkzUTzVtJuGPwA949UxAX5tDWRbv2mWrO6fLM2MI/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="reviews-content ">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 4 </strong></span></p>
+                                </div>
+                                <p><span><strong>Title:</strong></span> Wireless Charger with Speaker</p>
+                                <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
+                                <div class="slide-content1">
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ZASMAiCyAQDBf5c6LYGVzO8hG6GzrYDC/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                    </div>
+                                    <div class="ppt-btn">
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1njHeoyFNxXrnx-e-ZLsK2FfMjZVZGr9AchYQXoN_Cqk/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div></div>
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p><span><strong>Tutorial No. 5 </strong></span> </p>
+                                </div>
+                                <p><span><strong>Title:</strong></span> OVOU: Household Robot</p>
+                                <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
+                                <div class="slide-content1">
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1KwyDbKO8sTeY_B1rIyrwC4GEwcuzq7e4/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                    </div>
+                                    <div class="ppt-btn">
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1Sk437O4TAFjS5K2X_gKrZ2Ah_F1V5M0cfP94s00MNOM/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
                                 </div>
                             </div>

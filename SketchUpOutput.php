@@ -72,7 +72,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="">View</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="">View</a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="">View</a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="">View</a>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="SketchUpHSOutput.php">View</a>
                         </div>
                     </div>
                 </div>
