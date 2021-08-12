@@ -181,7 +181,7 @@
                             </div>
                         </div>
                         <div class="price-btn blue">
-                            <a class="blue" href="#">View</a>
+                            <a class="blue" href="AutoCADElemOutput.php">View</a>
                         </div>
                     </div>
                 </div>
