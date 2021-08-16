@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
+    <?php include '../components/head.inc.php'; ?>
     <title>AutoCAD Outputs | 3D Modeling & Design</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include '../components/header.inc.php'; ?>
 <!-- start -->
 <!-- Start breadcumb Area -->
 <div class="page-area">
@@ -222,8 +222,8 @@
 <!-- End Video area -->
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include '../components/footer.inc.php';
+include '../components/js.inc.php';
 ?>
 
 </html>

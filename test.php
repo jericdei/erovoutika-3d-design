@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
+    <?php include '../components/head.inc.php'; ?>
     <title> | 3D Modeling & Design</title>
 </head>
 <?php include('components/header.inc.php'); ?>
@@ -10,8 +10,8 @@
 
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include('../components/footer.inc.php');
+include('../components/js.inc.php');
 ?>
 
 </html>

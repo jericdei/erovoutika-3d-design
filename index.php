@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
+    <?php include 'components/head.inc.php'; ?>
     <title>3D Modeling & Design | Erovoutika International</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include 'components/header.inc.php'; ?>
 <!-- Start Intro Area -->
 <div class="slide-area fix" data-stellar-background-ratio="0.6">
     <div class="display-table">
@@ -19,7 +19,7 @@
                             <h2 class="title5">Your<span> One-Stop Shop </span>Innovative Solutions</h2>
                             <h2 class="title3">Want to know more about 3D Design?</h2>
                             <div class="layer-1-3">
-                                <a href="about.php" class="ready-btn left-btn">Get started</a>
+                                <a href="/about.php" class="ready-btn left-btn">Get started</a>
                                 <div class="video-content">
                                     <a href="https://www.youtube.com/watch?v=6RPBMKYPwpc" class="video-play vid-zone">
                                         <i class="fa fa-play"></i>
@@ -37,8 +37,8 @@
 </div>
 <!-- End Intro Area -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include 'components/footer.inc.php';
+include 'components/js.inc.php';
 ?>
 
 </html>

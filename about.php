@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
+    <?php include 'components/head.inc.php'; ?>
     <title>About | 3D Modeling & Design</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include 'components/header.inc.php'; ?>
 <!-- start -->
 <!-- Start breadcumb Area -->
 <div class="page-area">
@@ -102,8 +102,8 @@
                     <p>On this website, we will focus on:</p>
                     <div class="about-details">
                         <ul class="marker-list">
-                            <li><a href="aboutAutoCAD.php"><strong>AutoCAD</strong></a></li>
-                            <li><a href="aboutSketchUp.php"><strong>SketchUp</strong></a></li>
+                            <li><a href="/autocad/aboutAutoCAD.php"><strong>AutoCAD</strong></a></li>
+                            <li><a href="/sketchup/aboutSketchUp.php"><strong>SketchUp</strong></a></li>
                         </ul>
                     </div>
                 </div>
@@ -114,8 +114,8 @@
 <!-- about-area end -->
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include 'components/footer.inc.php';
+include 'components/js.inc.php';
 ?>
 
 </html>

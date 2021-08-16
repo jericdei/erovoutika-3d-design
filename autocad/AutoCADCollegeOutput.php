@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
+    <?php include '../components/head.inc.php'; ?>
     <title>AutoCAD College Level Tutorial Outputs | 3D Modeling & Design</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include '../components/header.inc.php'; ?>
 <!-- start -->
 <!-- Start breadcumb Area -->
 <div class="page-area">
@@ -58,10 +58,10 @@
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1nKyzqdQKsAh8DE2FTj5otSG_QljuK2J2/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1nKyzqdQKsAh8DE2FTj5otSG_QljuK2J2/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1IO8Rb2m9VXUTf2mnoWDfC7pUYMf4fc31/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1IO8Rb2m9VXUTf2mnoWDfC7pUYMf4fc31/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -80,10 +80,10 @@
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1inf1zChUgypKRJUlgEMZsd0FZ1BaixTq/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1inf1zChUgypKRJUlgEMZsd0FZ1BaixTq/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1N5ARpbVycj3MHTO7kFnIVLhZkandMsqQ/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1N5ARpbVycj3MHTO7kFnIVLhZkandMsqQ/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -102,10 +102,10 @@
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1jkQZnn0BzCBwh6yzSEBoxzjJWXl237qI/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1jkQZnn0BzCBwh6yzSEBoxzjJWXl237qI/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1NxYmiAZV9KoDVmAt7U7KpdU3jKdP8rfR/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1NxYmiAZV9KoDVmAt7U7KpdU3jKdP8rfR/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -129,10 +129,10 @@
                                 <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1C8uCur4WF9NIATkW85NPT_hwCpD9OuHq/preview"><img class="pdf-ppt-icon" src=img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1C8uCur4WF9NIATkW85NPT_hwCpD9OuHq/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1vvA9VljuLso_ejGwatBizidChwHg3B7i/preview?slide=id.p1"><img class="pdf-ppt-icon" src=img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1vvA9VljuLso_ejGwatBizidChwHg3B7i/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -146,8 +146,8 @@
 </div>
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include '../components/footer.inc.php';
+include '../components/js.inc.php';
 ?>
 
 </html>

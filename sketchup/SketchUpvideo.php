@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
-    <title>SketchUp Outputs | 3D Modeling & Design</title>
+    <?php include '../components/head.inc.php'; ?>
+    <title>SketchUp Video Tutorials | 3D Modeling & Design</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include '../components/header.inc.php'; ?>
 <!-- start -->
 <!-- Start breadcumb Area -->
 <div class="page-area">
@@ -15,14 +15,14 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb text-center">
                     <div class="section-headline white-headline">
-                        <h3 class="title5">Outputs: <span>SketchUp</span></h3>
+                        <h3 class="title5">Video Tutorials: <span>SketchUp</span></h3>
                     </div>
                     <ul class="breadcrumb-bg">
                         <a href="index.php">
                             <li class="home-bread">Home</li>
                         </a>
-                        <li class="home-bread">Outputs</li>
-                        <a href="SketchUpOutput.php">
+                        <li class="home-bread">Video Tutorials</li>
+                        <a href="SketchUpvideo.php">
                             <li>SketchUp</li>
                         </a>
                     </ul>
@@ -53,86 +53,101 @@
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>Software Installation</strong></span>
-                                <span class="topic"><strong>Outputs</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpInstallationOutput.php">View</a>
+                            <a class="view-btn" href="SketchUpInstallation.php">View</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="pri_table_list">
                         <div class="top-price-inner">
-                            <div class="rates">
+                            <div class="d-flex justify-content-center">
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>MRT Station</strong></span>
-                                <span class="topic"><strong>Outputs</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="SketchUpMRT.php">View</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="pri_table_list">
                         <div class="top-price-inner">
-                            <div class="rates">
+                            <div class="d-flex justify-content-center">
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>LRT Station</strong></span>
-                                <span class="topic"><strong>Outputs</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="SketchUpLRT.php">View</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="pri_table_list">
                         <div class="top-price-inner">
-                            <div class="rates">
+                            <div class="d-flex justify-content-center">
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>Erovoutika Training</strong></span>
-                                <span class="topic"><strong>Area Outputs</strong></span>
+                                <span class="topic"><strong>Area Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="SketchUpETA.php">View</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="pri_table_list">
                         <div class="top-price-inner">
-                            <div class="rates">
+                            <div class="d-flex justify-content-center">
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>Elementary Level</strong></span>
-                                <span class="topic"><strong>Outputs</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="SketchUpElem.php">View</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="pri_table_list">
                         <div class="top-price-inner">
-                            <div class="rates">
+                            <div class="d-flex justify-content-center">
                                 <span class="software"><strong>SketchUp 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>High School Level</strong></span>
-                                <span class="topic"><strong>Outputs</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="SketchUpHSOutput.php">View</a>
+                            <a class="view-btn" href="SketchUpHS.php">View</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="pri_table_list">
+                        <div class="top-price-inner">
+                            <div class="d-flex justify-content-center">
+                                <span class="software"><strong>SketchUp 3D</strong></span>
+                                <span class="software"><strong>Design Software</strong></span>
+                                <span class="topic"><strong>Building Wiring</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
+                            </div>
+                        </div>
+                        <div class="view-btn">
+                            <a class="view-btn" href="SketchUpBldgWiring.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -143,8 +158,8 @@
 <!-- End Video area -->
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include '../components/footer.inc.php';
+include '../components/js.inc.php';
 ?>
 
 </html>

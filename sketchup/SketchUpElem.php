@@ -2,10 +2,10 @@
 <html class="no-js" lang="en">
 
 <head>
-    <?php include('components/head.inc.php'); ?>
-    <title>SketchUp LRT Station Tutorials | 3D Modeling & Design</title>
+    <?php include '../components/head.inc.php'; ?>
+    <title>SketchUp Elementary Level Tutorials | 3D Modeling & Design</title>
 </head>
-<?php include('components/header.inc.php'); ?>
+<?php include '../components/header.inc.php'; ?>
 <!-- start -->
 <!-- Start breadcumb Area -->
 <div class="page-area">
@@ -15,7 +15,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="breadcrumb text-center">
                     <div class="section-headline white-headline">
-                        <h3 class="title5">Video Tutorials: <span>LRT Station Tutorials </span></h3>
+                        <h3 class="title5">Video Tutorials: <span>Elementary Level Tutorials </span></h3>
                     </div>
                     <ul class="breadcrumb-bg">
                         <a href="index.php">
@@ -25,8 +25,8 @@
                         <a href="SketchUpvideo.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpLRT.php">
-                            <li>LRT Station Tutorials</li>
+                        <a href="SketchUpElem.php">
+                            <li>Elementary Level Tutorials</li>
                         </a>
                     </ul>
                 </div>
@@ -41,7 +41,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="title9 text-center">
-                    <span>SketchUp: LRT Station Tutorials</span>
+                    <span>SketchUp: Elementary Level Tutorials</span>
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
                                     <p><span><strong>Tutorial No. 1 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> </p>
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
@@ -68,6 +68,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
                 <!-- End single item -->
                 <div class="col-md-4 col-sm-6 col-xs-12">
@@ -79,7 +80,7 @@
                                     <p><span><strong>Tutorial No. 2 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> </p>
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
@@ -91,6 +92,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
                 <!-- End single item -->
                 <div class="col-md-4 col-sm-6 col-xs-12">
@@ -102,7 +104,7 @@
                                     <p><span><strong>Tutorial No. 3 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> </p>
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
@@ -125,7 +127,7 @@
                                     <p><span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> </p>
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
@@ -148,7 +150,7 @@
                                     <p><span><strong>Tutorial No. 5 </strong></span> </p>
                                 </div>
                                 <p><span><strong>Details:</strong></span> </p>
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="video-content">
                                         <a href="#" class="video-play vid-zone">
@@ -168,8 +170,8 @@
 </div>
 <!-- end -->
 <?php
-include('components/footer.inc.php');
-include('components/js.inc.php');
+include '../components/footer.inc.php';
+include '../components/js.inc.php';
 ?>
 
 </html>
