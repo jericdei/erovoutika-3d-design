@@ -22,10 +22,10 @@
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Outputs</li>
-                        <a href="output.php">
+                        <a href="../output.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpInstallationOutput.php">
+                        <a href="#">
                             <li>Software Installation Tutorials</li>
                         </a>
                     </ul>

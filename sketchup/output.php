@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="about-image5">
-                        <center><img src="img/about/sketchup.png" alt=""></center>
+                        <center><img src="/img/about/sketchup.png" alt=""></center>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="outputs/mrt.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="outputs/lrt.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="outputs/eta.php">View</a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                             </div>
                         </div>
                         <div class="view-btn">
-                            <a class="view-btn" href="">View</a>
+                            <a class="view-btn" href="outputs/elementary.php">View</a>
                         </div>
                     </div>
                 </div>

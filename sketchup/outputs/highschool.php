@@ -22,10 +22,10 @@
                             <li class="home-bread">Home</li>
                         </a>
                         <li class="home-bread">Outputs</li>
-                        <a href="output.php">
+                        <a href="../output.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpHSOutput.php">
+                        <a href="#">
                             <li>High School Level Tutorials</li>
                         </a>
                     </ul>
@@ -59,8 +59,11 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1GnJD27vVs20MqTZqJu1vx4XDNNgB7rgO/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1GnJD27vVs20MqTZqJu1vx4XDNNgB7rgO/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div>
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1PpTCUE_G2FcH1s0DHV_Q-xT8R58wPET90s-gNt-FIts/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
@@ -82,8 +85,11 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1WUyh9P6T7MiIBk7dsXciMTpY3tELj9Cv/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1WUyh9P6T7MiIBk7dsXciMTpY3tELj9Cv/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div>
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1ErhAFsgY0z5-qBEM9g1jPgT1l-w2b9doWCtEOGs5p-E/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
@@ -105,8 +111,11 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1K1_DMLQP6KClf1KcJgvmN5PUIt_altdp/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1K1_DMLQP6KClf1KcJgvmN5PUIt_altdp/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div>
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1CpKnkzUTzVtJuGPwA949UxAX5tDWRbv2mWrO6fLM2MI/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
@@ -132,8 +141,11 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ZASMAiCyAQDBf5c6LYGVzO8hG6GzrYDC/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ZASMAiCyAQDBf5c6LYGVzO8hG6GzrYDC/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div>
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1njHeoyFNxXrnx-e-ZLsK2FfMjZVZGr9AchYQXoN_Cqk/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>
@@ -155,8 +167,11 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1KwyDbKO8sTeY_B1rIyrwC4GEwcuzq7e4/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1KwyDbKO8sTeY_B1rIyrwC4GEwcuzq7e4/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div>
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1Sk437O4TAFjS5K2X_gKrZ2Ah_F1V5M0cfP94s00MNOM/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div>

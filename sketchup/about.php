@@ -39,7 +39,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-12 col-xs-12">
                 <div class="about-image3">
-                    <center><img src="img/about/sketchup.png" alt=""></center>
+                    <center><img src="/img/about/sketchup.png" alt=""></center>
                 </div>
             </div>
         </div>

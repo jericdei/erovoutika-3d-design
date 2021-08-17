@@ -38,7 +38,7 @@
         <div class="row">
             <div class="col-md-6 col-sm-12 col-xs-12">
                 <div class="about-image2">
-                    <center><img src="img/about/autocad.png" alt=""></center>
+                    <center><img src="/img/about/autocad.png" alt=""></center>
                 </div>
             </div>
         </div>
