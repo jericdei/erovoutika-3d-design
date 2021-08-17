@@ -57,20 +57,20 @@
                                                 <li><a href="/about.php">About</a></li>
                                                 <li><a class="pages" href="#">3D Design Softwares</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="/sketchup/aboutSketchUp.php">SketchUp</a></li>
-                                                        <li><a href="/autocad/aboutAutoCAD.php">AutoCAD</a></li>
+                                                        <li><a href="/sketchup/about.php">SketchUp</a></li>
+                                                        <li><a href="/autocad/about.php">AutoCAD</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a class="pages" href="#">Video Tutorials</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="/sketchup/SketchUpvideo.php">SketchUp</a></li>
-                                                        <li><a href="/autocad/AutoCADvideo.php">AutoCAD</a></li>
+                                                        <li><a href="/sketchup/video.php">SketchUp</a></li>
+                                                        <li><a href="/autocad/video.php">AutoCAD</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a class="pages" href="#">Outputs</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="/sketchup/SketchUpOutput.php">SketchUp</a></li>
-                                                        <li><a href="/autocad/AutoCADOutput.php">AutoCAD</a></li>
+                                                        <li><a href="/sketchup/output.php">SketchUp</a></li>
+                                                        <li><a href="/autocad/output.php">AutoCAD</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="/contact.php">contacts</a></li>
@@ -101,20 +101,20 @@
                                     <li><a href="/about.php">About</a></li>
                                     <li><a class="pages" href="#">3D Design Softwares</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/sketchup/aboutSketchUp.php">SketchUp</a></li>
-                                            <li><a href="/autocad/aboutAutoCAD.php">AutoCAD</a></li>
+                                            <li><a href="/sketchup/about.php">SketchUp</a></li>
+                                            <li><a href="/autocad/about.php">AutoCAD</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pages" href="#">Video Tutorials</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/sketchup/SketchUpvideo.php">SketchUp</a></li>
-                                            <li><a href="/autocad/AutoCADvideo.php">AutoCAD</a></li>
+                                            <li><a href="/sketchup/video.php">SketchUp</a></li>
+                                            <li><a href="/autocad/video.php">AutoCAD</a></li>
                                         </ul>
                                     </li>
                                     <li><a class="pages" href="#">Outputs</a>
                                         <ul class="sub-menu">
-                                            <li><a href="/sketchup/SketchUpOutput.php">SketchUp</a></li>
-                                            <li><a href="/autocad/AutoCADOutput.php">AutoCAD</a></li>
+                                            <li><a href="/sketchup/output.php">SketchUp</a></li>
+                                            <li><a href="/autocad/output.php">AutoCAD</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/contact.php">contacts</a></li>
