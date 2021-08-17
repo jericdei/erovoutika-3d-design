@@ -1586,7 +1586,6 @@ span.users {
 }
 .pdf-btn a {
     color: rgb(255, 255, 255);
-    text-transform: uppercase;
     transition: all 0.4s ease 0s;
     border-radius: 2px;
     font-weight: 700;
@@ -1597,14 +1596,16 @@ span.users {
     margin-top: 20px;
     display:table;
     margin:0 auto;
-    padding-bottom: 7px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border:1px solid #960101;
 }
 .pdf-btn a:hover{
     background: transparent;
     color:#960101;
     background: #ffffff;
-    border:1px solid #000000;
     transition: all 0.4s ease 0s;
+    border:1px solid #000000;
 }
 .ppt-btn a {
     color: rgb(255, 255, 255);
@@ -1619,13 +1620,14 @@ span.users {
     display:table;
     margin:0 auto;
     padding-bottom: 7px;
+    border:1px solid #d46001;
 }
 .ppt-btn a:hover{
     background: transparent;
     color:#d46001;
-    border:1px solid #000000;
     background: #ffffff;
     transition: all 0.4s ease 0s;
+    border:1px solid #000000;
 }
 .pdf-ppt-icon {
     width: 25px;

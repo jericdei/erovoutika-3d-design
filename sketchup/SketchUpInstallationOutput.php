@@ -57,10 +57,13 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1EnO4JKol5pUuPleIprPT2L3SuVNq_dxQ/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/14gi5j0OZ6Gyhup6SLbh4ntZiDh-zMVynUKn_KqEUxv4/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -78,10 +81,13 @@
                                 <p><span><strong>Created by:</strong></span> Rabby Rabanzo</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -99,10 +105,13 @@
                                 <p><span><strong>Created by:</strong></span> Adrielle Anselmo</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -125,10 +134,13 @@
                                 <p><span><strong>Created by:</strong></span> Chael Patrick de Patino</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -146,10 +158,13 @@
                                 <p><span><strong>Created by:</strong></span> Neil Jan Capio</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -167,10 +182,13 @@
                                 <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1ynnSY4FRo1PmTwD1B7hbkoFP-EU4Kurg/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1gvIemJTax_gAmeqg9B2DDNcU8S5aP20vTXzxxhfz7II/preview?slide=id.ge460717c25_0_106"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
