@@ -25,7 +25,7 @@
                         <a href="/sketchup/video.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpETA.php">
+                        <a href="/sketchup/videos/eta.php">
                             <li>Erovoutika Training Area Tutorials</li>
                         </a>
                     </ul>

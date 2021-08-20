@@ -25,7 +25,7 @@
                         <a href="../video.php">
                             <li class="home-bread">AutoCAD</li>
                         </a>
-                        <a href="#">
+                        <a href="/autocad/videos/installation.php">
                             <li>Software Installation Tutorials</li>
                         </a>
                     </ul>

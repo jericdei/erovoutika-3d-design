@@ -25,7 +25,7 @@
                         <a href="/sketchup/video.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpLRT.php">
+                        <a href="/sketchup/videos/lrt.php">
                             <li>LRT Station Tutorials</li>
                         </a>
                     </ul>

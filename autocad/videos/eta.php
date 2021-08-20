@@ -25,7 +25,7 @@
                         <a href="../video.php">
                             <li class="home-bread">AutoCAD</li>
                         </a>
-                        <a href="#">
+                        <a href="/autocad/videos/eta.php">
                             <li>Erovoutika Training Area Tutorials</li>
                         </a>
                     </ul>

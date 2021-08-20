@@ -25,7 +25,7 @@
                         <a href="/sketchup/video.php">
                             <li class="home-bread">SketchUp</li>
                         </a>
-                        <a href="SketchUpHS.php">
+                        <a href="/sketchup/videos/highschool.php">
                             <li>High School Level Tutorials</li>
                         </a>
                     </ul>
