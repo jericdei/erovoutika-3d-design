@@ -53,18 +53,18 @@
                             <div class="clients-text">
                                 <div class="client-rating">
                                     <p>College Level <span><strong>Tutorial No. 1 </strong></span> </p>
-                                    <p><strong>Title: </strong><span>Hex Nut 3D</span> </p>
+                                    <p><strong>Title: </strong><span>Smartphone 3D Model</span> </p>
                                 </div>
-                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1nKyzqdQKsAh8DE2FTj5otSG_QljuK2J2/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/19cGQeINP8q3bArp83AOgpaBwBIzkjUTC/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1j29wkbZLf2QRSCzVPXbiDB8e_kz8KVx-/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1IO8Rb2m9VXUTf2mnoWDfC7pUYMf4fc31/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1YExgam4i1k_DpPIKGXTsVbqIH3RMA0c-/edit#slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -78,18 +78,18 @@
                             <div class="clients-text">
                                 <div class="client-rating">
                                     <p>College Level <span><strong>Tutorial No. 2 </strong></span> </p>
-                                    <p><strong>Title: </strong><span>Hex Bolt 3D</span> </p>
+                                    <p><strong>Title: </strong><span>Ultrasonic Sensor 3D Model</span> </p>
                                 </div>
-                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1inf1zChUgypKRJUlgEMZsd0FZ1BaixTq/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1WyY8JssgE92kk48Ti6eQo9UudJ9TnqWK/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1qPTEJTBd30e6VUvr3K1Q6kkKxuIfEKM7/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1N5ARpbVycj3MHTO7kFnIVLhZkandMsqQ/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/10b8egtLIsG1oZRxcaHyl8IUE2YKraT3j/edit#slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -103,18 +103,18 @@
                             <div class="clients-text">
                                 <div class="client-rating">
                                     <p>College Level <span><strong>Tutorial No. 3 </strong></span> </p>
-                                    <p><strong>Title: </strong><span>3D Base</span> </p>
+                                    <p><strong>Title: </strong><span>Rubber Wheel 3D Model</span> </p>
                                 </div>
-                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
+                                <p><span><strong>Created by:</strong></span> Hans Benson Loma</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1jkQZnn0BzCBwh6yzSEBoxzjJWXl237qI/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/14jcgsLB2nZyXR-XzKKVHWncabO0sghy-/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1haPrjt8qQRuTfpypKVADpCgb1PmUvIN8/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1NxYmiAZV9KoDVmAt7U7KpdU3jKdP8rfR/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/15SKKaZy3jwfN6pB8eHfjeSX6EVHXiNeP/edit#slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div>
                             </div>
@@ -125,35 +125,6 @@
             </div> <!-- End reviews-content -->
         </div> <!-- End row -->
         <!-- End -->
-        <div class="row">
-            <div class="reviews-content ">
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                    <div class="single-testi">
-                        <div class="testi-text">
-                            <div class="clients-text">
-                                <div class="client-rating">
-                                    <p>College Level <span><strong>Tutorial No. 4 </strong></span> </p>
-                                    <p><strong>Title: </strong><span>3D Shoulder</span> </p>
-                                </div>
-                                <p><span><strong>Created by:</strong></span> Cyril Audrey Relato</p>
-                                <div class="slide-content1">
-                                    <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1C8uCur4WF9NIATkW85NPT_hwCpD9OuHq/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
-                                    </div> <!-- End pdf-btn -->
-                                    <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
-                                    </div> <!-- End pdf-btn -->
-                                    <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1vvA9VljuLso_ejGwatBizidChwHg3B7i/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
-                                    </div> <!-- End ppt-btn -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End single item -->
-            </div> <!-- End reviews-content -->
-        </div> <!-- End row -->
     </div>
 </div>
 <!-- end -->
