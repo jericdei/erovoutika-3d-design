@@ -57,13 +57,13 @@
                                 <p><span><strong>Created by:</strong></span> Christal Gaile Rosales</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1GkKlTWX4XC34Y9MNRUoe87qCUBbkNliA/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1zsTp382_bwquOcMVjM8-dXYVq7ErVeNp/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/14gi5j0OZ6Gyhup6SLbh4ntZiDh-zMVynUKn_KqEUxv4/preview?slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -81,13 +81,13 @@
                                 <p><span><strong>Created by:</strong></span> Rabby Rabanzo</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                        <a class="video-play vid-zone" href="https://trello.com/1/cards/60db1ddecc35714592379f7e/attachments/60e5126533d80e45279e2e0b/download/Module_(Output)_-_Project_03-converted.pdf"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                        <a class="video-play vid-zone"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
                                     </div> <!-- End ppt-btn -->
                                 </div> <!-- End slide-content1 -->
                             </div> <!-- End clients-text -->
@@ -108,7 +108,7 @@
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
@@ -131,13 +131,13 @@
                                 <div class="client-rating">
                                     <p>Software Installation <span><strong>Tutorial No. 4 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                <p><span><strong>Created by:</strong></span> Chael Patrick de Patino</p>
+                                <p><span><strong>Created by:</strong></span> Chael Patrick de Patiño</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="pdf-btn">
-                                        <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                        <a class="video-play vid-zone"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
                                     </div> <!-- End pdf-btn -->
                                     <div class="ppt-btn">
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
@@ -155,7 +155,7 @@
                                 <div class="client-rating">
                                     <p>Software Installation <span><strong>Tutorial No. 5 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                <p><span><strong>Created by:</strong></span> Neil Jan Capio</p>
+                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
@@ -179,7 +179,31 @@
                                 <div class="client-rating">
                                     <p>Software Installation <span><strong>Tutorial No. 6 </strong></span> </p>
                                 </div> <!-- End client-rating -->
-                                <p><span><strong>Created by:</strong></span> John Dave Dimayuga</p>
+                                <p><span><strong>Created by:</strong></span> Neil John Capio</p>
+                                <div class="slide-content1">
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1naUlm46Aek9S8I8lIGiasIpuFZzJu1pQ/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="pdf-btn">
+                                        <a class="video-play vid-zone" href="https://drive.google.com/file/d/1E9Y9CaOPWzb5mNcR4XXQd83dYy8CKjK4/preview"><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Creative</a>
+                                    </div> <!-- End pdf-btn -->
+                                    <div class="ppt-btn">
+                                        <a class="video-play vid-zone" href="https://docs.google.com/presentation/d/1PA51WE2MVhlm1HEt_nt_KiqirU38bTUR/preview#slide=id.p1"><img class="pdf-ppt-icon" src=/img/logo/ppt-icon.png> PowerPoint</a>
+                                    </div> <!-- End ppt-btn -->
+                                </div> <!-- End slide-content1 -->
+                            </div> <!-- End clients-text -->
+                        </div> <!-- End testi-text -->
+                    </div> <!-- End single-testi-->
+                </div> <!-- End col -->
+                <!-- End single item -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-testi">
+                        <div class="testi-text">
+                            <div class="clients-text">
+                                <div class="client-rating">
+                                    <p>Software Installation <span><strong>Tutorial No. 7 </strong></span> </p>
+                                </div> <!-- End client-rating -->
+                                <p><span><strong>Created by:</strong></span> Christian Jeremy Aquino</p>
                                 <div class="slide-content1">
                                     <div class="pdf-btn">
                                         <a class="video-play vid-zone" href=""><img class="pdf-ppt-icon" src=/img/logo/pdf-icon.png> PDF Instructional</a>

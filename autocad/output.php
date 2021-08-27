@@ -131,6 +131,36 @@
                             <div class="rates">
                                 <span class="software"><strong>AutoCAD 3D</strong></span>
                                 <span class="software"><strong>Design Software</strong></span>
+                                <span class="topic"><strong>Robot Design</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
+                            </div>
+                        </div>
+                        <div class="price-btn blue">
+                            <a class="blue" href="outputs/robot.php">View</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="pri_table_list">
+                        <div class="top-price-inner">
+                            <div class="rates">
+                                <span class="software"><strong>AutoCAD 3D</strong></span>
+                                <span class="software"><strong>Design Software</strong></span>
+                                <span class="topic"><strong>Module Projects</strong></span>
+                                <span class="topic"><strong>Tutorials</strong></span>
+                            </div>
+                        </div>
+                        <div class="price-btn blue">
+                            <a class="blue" href="outputs/module.php">View</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="pri_table_list">
+                        <div class="top-price-inner">
+                            <div class="rates">
+                                <span class="software"><strong>AutoCAD 3D</strong></span>
+                                <span class="software"><strong>Design Software</strong></span>
                                 <span class="topic"><strong>Floor Plans</strong></span>
                                 <span class="topic"><strong>Tutorials</strong></span>
                             </div>
